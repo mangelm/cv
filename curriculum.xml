@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum name="miguelangelmorenodelgado">
+    <datos_personales>
+        <texto_perfil>
+            <imagen type="Foto_CV" style="IMG"></imagen>
+            <nombre_completo style="H2">
+                <nombre type="primero">Miguel</nombre> 
+                <nombre type="segundo">Angel</nombre>
+                <apellido>Moreno</apellido>
+            </nombre_completo>
+            <oficio>Técnico Informático</oficio>
+        </texto_perfil>
+        <datos_contacto STYLE="UL">
+            <telefonos style="LI">
+                <telefono type="Personal">+34 651483212</telefono>
+            </telefonos>
+            <correos_electronicos style="LI">
+                <correo_eletronico type="Trabajo">miguelangelmorenodelgadot@gmail.com</correo_eletronico>
+            </correos_electronicos>
+            <enlaces_profesionales style="LI">
+                <github style="A">https://github.com/mangelm</github>
+                <linkedin style="A">https://www.linkedin.com/in/miguel-angel-moreno-delgado-64353322b/</linkedin>
+            </enlaces_profesionales>
+            <residencia style="LI">
+                <pueblo>El Prat de LLobregat</pueblo>
+                <ciudad>Barcelona</ciudad>
+                <pais>España</pais>
+            </residencia>
+        </datos_contacto>
+    </datos_personales>
+
+    <estudios style="UL">
+        <estudio style="LI">
+            <año type="no_finalizado" style="H5">Cursando</año>
+            <titulo style="H4">CFGS Desarrollo de Aplicaciones Web</titulo>
+            <centro_estudios style="H4">Ies Les Salines</centro_estudios>
+        </estudio>
+        
+        <estudio style="LI">
+            <año type="finalizado" style="H5">2019</año>
+            <titulo style="H4">CFGM Sistemas Microinformáticos y redes</titulo>
+            <centro_estudios style="H4">Ies Les Salines</centro_estudios>
+        </estudio>
+            
+        <estudio style="LI">
+            <año type="finalizado" style="H5">2017</año>
+            <titulo style="H4">Certificado de Actividades de Gestión administrativa</titulo>
+            <centro_estudios style="H4">Fundación Privada Inform-Instituto</centro_estudios>
+        </estudio>
+        
+        <estudio style="LI">
+            <año type="finalizado" style="H5">2016</año>
+            <titulo style="H4">Programa jóvenes por la ocupación auxiliar de cocina</titulo>
+            <centro_estudios style="H4">Centro de Promoción Económica</centro_estudios>
+        </estudio> 
+
+        <estudio style="LI">
+            <año type="finalizado" style="H5">2016</año>
+            <titulo style="H4">Certificado de Higiene Alimentária</titulo>
+            <centro_estudios style="H5">Centres d'Estudis de L'Esplai</centro_estudios>
+        </estudio>   
+
+    </estudios>
+
+    <idiomas style="UL">
+        <idioma style="LI">
+            <nombre>Castellano</nombre>
+            <nivel>Nativo</nivel>
+        </idioma>
+        <idioma style="LI">
+            <nombre>Inglés</nombre>
+            <nivel>Medio</nivel>
+        </idioma>
+        <idioma style="LI">
+            <nombre>Catalán</nombre>
+            <nivel>Alto</nivel>
+        </idioma>
+    </idiomas>
+
+    <sobre_mi style="H2">
+        <texto_informativo style="P">
+            Con ganas de trabajar y crecer profesionalmente en
+            el mundo de la informática.
+            Comencé siendo autodidacta, mirando de aprender
+            por mi cuenta lenguajes nuevos, pendiente de la
+            tecnología actual. 
+            Posteriormente, me formé en estas temáticas.
+            Siempre busco superarme, para mejorar cada día en
+            las tareas que desempeño.
+        </texto_informativo>
+    </sobre_mi>
+
+    <experiencia_laboral style="H2">
+        <experiencia>
+            <anys style="H5">
+                <any type="Inicio">2018</any>
+                <any type="Final">2018</any>
+                <mes type="Inicio">Marzo</mes>
+                <mes type="Final">Noviembre</mes>
+            </anys>
+            <empresa style="H5">Ies El Calamot</empresa>
+            <puesto style="H4">Técnico Informático</puesto>
+            <tareas style="P">
+                Tareas de mantenimiento de equipos informáticos y sistemas
+                operativos. También hacia copias de seguridad y clonación 
+                de equipos informáticos en las diferentes aulas.
+            </tareas>
+        </experiencia>
+        <experiencia>
+            <anys style="H5">
+                <any type="Inicio">2017</any>
+                <any type="Final">2017</any>
+                <mes type="Inicio">Julio</mes>
+                <mes type="Final">Julio</mes>
+            </anys>
+            <empresa style="H5">Matescopy La botiga del mestre</empresa>
+            <puesto style="H4">Auxiliar Administrativo</puesto>
+            <tareas style="P">
+                Llamaba a los diferentes clientes para comprobar el trabajo de los
+                comerciales. Gestión del archivo y de los albaranes de entrada en el
+                almacén.
+            </tareas>
+        </experiencia>
+        <experiencia>
+            <anys style="H5">
+                <any type="Inicio">2016</any>
+                <any type="Final">2016</any>
+                <mes type="Inicio">Julio</mes>
+                <mes type="Final">Julio</mes>
+            </anys>
+            <empresa style="H5">Restaurant L'Artesà</empresa>
+            <puesto style="H4">Auxiliar de Cocina</puesto>
+            <tareas style="P">
+                Preparación de materias primas, preparación de menús, plancha,
+                pica y cortafiambres.
+            </tareas>
+        </experiencia>
+        <experiencia>
+            <anys style="H5">
+                <any type="Inicio">2015</any>
+                <any type="Final">2015</any>
+                <mes type="Inicio">Julio</mes>
+                <mes type="Final">Julio</mes>
+            </anys>
+            <empresa style="H5">Restaurante La Tramoia</empresa>
+            <puesto style="H4">Auxiliar de Cocina</puesto>
+            <tareas style="P">
+                Preparación de materias primas, desayunos y pica.
+            </tareas>
+        </experiencia>
+    </experiencia_laboral>
+
+    <habilidades_profesionales style="H2">
+        <lenguajes style="H4">
+            <lenguaje>
+                <nombre>HTML</nombre>
+                <nivel>80%</nivel>
+            </lenguaje>
+            <lenguaje>
+                <nombre>CSS</nombre>
+                <nivel>80%</nivel>
+            </lenguaje>
+            <lenguaje>
+                <nombre>Javascript</nombre>
+                <nivel>30%</nivel>
+            </lenguaje>
+            <lenguaje>
+                <nombre>PHP</nombre>
+                <nivel>30%</nivel>
+            </lenguaje>
+            <lenguaje>
+                <nombre>Python</nombre>
+                <nivel>70%</nivel>
+            </lenguaje>
+        </lenguajes>
+        <tecnologias style="H4">
+            <tecnologia type="sistema_operativo">
+                <nombre>Windows Server</nombre>
+                <nivel>50%</nivel>
+            </tecnologia>
+            <tecnologia type="sistema_operativo">
+                <nombre>Windows Desktop</nombre>
+                <nivel>100%</nivel>
+            </tecnologia>
+            <tecnologia type="sistema_operativo">
+                <nombre>Ubuntu Server</nombre>
+                <nivel>30%</nivel>
+            </tecnologia>
+            <tecnologia type="sistema_operativo">
+                <nombre>Ubuntu Desktop</nombre>
+                <nivel>40%</nivel>
+            </tecnologia>
+            <tecnologia type="ofimatica">
+                <nombre>Microsoft Office 365</nombre>
+                <nivel>100%</nivel>
+            </tecnologia>
+        </tecnologias>    
+    </habilidades_profesionales>
+    <hobbies style="UL">
+        <hobby style="LI">
+            <name>Leer</name>
+        </hobby>
+        <hobby style="LI">
+            <name>Aprender lenguajes de programación</name>
+        </hobby>
+        <hobby style="LI">
+            <name>Aprender Idiomas</name>
+        </hobby>
+        <hobby style="LI">
+            <name>Escuchar Podcasts</name>
+        </hobby>
+    </hobbies>
+</curriculum>
